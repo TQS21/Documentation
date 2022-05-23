@@ -6,10 +6,10 @@
 
 | Nome | Função | Email | Nmec |
 | :---: | :---: | :---: | :---: |
-| | | |
-| | | |
 | João Borges | Team Manager | borgesjps@ua.pt | 98155 |
+| Miguel Beirão | QA Egineer | mbeiraob@ua.pt | 98157 |
 | Vasco Regal | DevOps Master | vascoregal24@ua.pt | 97636 |
+| Vicente Costa | Product Owner | vicente.costa@ua.pt | 98515 |
 
 ## Bookmarks
 
