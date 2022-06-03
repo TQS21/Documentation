@@ -27,3 +27,8 @@ As a project for the TQS subject, we will explain the development of a viable so
 | Admin Web App | https://github.com/TQS21/admin-web-app | React |
 | Client Web App | https://github.com/TQS21/client-web-app | React |
 
+
+## Arquitecture
+
+![arquitecture](https://github.com/TQS21/main/blob/main/arquiteturav2.png)
+
