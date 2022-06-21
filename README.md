@@ -21,11 +21,12 @@ As a project for the TQS subject, we will explain the development of a viable so
 
 | Módulo | Repo Link | Tecnologia |
 | :---: | :---: | :---: |
-| Backend | https://github.com/TQS21/backend | Spring |
-| Client Mobile App | https://github.com/TQS21/client-mobile-app | React-Native |
-| Rider Mobile App | https://github.com/TQS21/rider-mobile-app | React-Native |
-| Admin Web App | https://github.com/TQS21/admin-web-app | React |
-| Client Web App | https://github.com/TQS21/client-web-app | React |
+| Delivery Engine Backend | https://github.com/TQS21/delivery-engine-backend | Spring |
+| Book Service Backend | https://github.com/TQS21/hml-backend | Spring |
+| Book Service Client Mobile App | https://github.com/TQS21/client-mobile-app | React-Native |
+| Book Service Client Web App | https://github.com/TQS21/client-web-app | React |
+| Delivery Engine Rider Mobile App | https://github.com/TQS21/rider-mobile-app | React-Native |
+| Delivery Engine Admin Web App | https://github.com/TQS21/admin-web-app | React |
 
 
 ## Arquitecture
